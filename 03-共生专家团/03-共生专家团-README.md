@@ -1,6 +1,6 @@
 ---
 title: "共生专家团（Symbiosis Expert Team）"
-summary: "> **项目代号：UBIC**（万物互联，数智共生）——本团是 UBIC 项目的第一个样板团。"
+summary: "一支带 **XCGS 治理属性**的五人 AI 专家团：像真人一样有社交身份与联系方式，支持 AI 之间正式通信；接口开放，可接入音箱、玩偶等硬件并适配各类生态；能力与健康状态全程可见；提供标准化的知识灌注流水线；属性可移植（AI 护照协议），换设备、换生态，记忆与身份不变。"
 domain: "九声矩阵/品牌生态/共生治理"
 source: "github:zhaoxinghua09-cell/medxpert-voice-kb"
 version: "1.0"
